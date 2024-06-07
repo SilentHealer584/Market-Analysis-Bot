@@ -1,18 +1,17 @@
 # Market-Analysis-Bot
 
-The most recent version of the script will NOT be released to public.
-I will briefly discuss the wortking principles of the bot and proviode
-you with a simple data gathering script which uses the krakenex API.
+The latest version of the script will be kept private.
 
-The latest version of the script, named Data_Visualisation_2.py is a
-script designed to analyse and visualise market data and decide if it
-should buy/sell a certain asset (in my case BTC). It relies on indicators
-such as EMA with different lengths and should theoretically work with
-any time frame.
+The latest version of the script, named 5.1.2.py is a
+script designed to analyse and visualise market data and relies on indicators
+such as EMA, RSI and others to decide if it should buy/sell a certain asset
+(in my case BTC).
 
-As of today, the script has an average P&L/Trade of +0.83%.
+As of today, the latest version of the script (5.1.2) has an average P&L/Trade of +4.5%.
 
-![image](https://github.com/SilentHealer584/Market-Analysis-Bot/assets/84270977/c837bdb4-cc99-4ce1-b6b5-b5d237da1f48)
-![image](https://github.com/SilentHealer584/Market-Analysis-Bot/assets/84270977/b1e9b29b-4c83-4eb8-b565-d84ba61f9dcb)
+![Screenshot 2024-05-07 153133](https://github.com/SilentHealer584/Market-Analysis-Bot/assets/84270977/89dd8b5f-400a-42a9-a9be-a6502d1d41ac)
+![Screenshot 2024-05-07 153121](https://github.com/SilentHealer584/Market-Analysis-Bot/assets/84270977/e210d12f-fc4a-45d4-a0e4-30c6d6564b59)
+
+The script will be running live for testing purposes from 07.06.24 to 14.06.24 (7 days or 42 4h candlesticks).
 
 More updates about the script might come.
