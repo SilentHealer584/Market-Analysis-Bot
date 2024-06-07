@@ -15,7 +15,8 @@ As of today, the latest version of the script (5.1.2) makes approximately 2450% 
 The script will be running live for testing purposes from 07.06.24 to 14.06.24 (7 days or 42 4h candlesticks).
 
 Other interesting data:
-Period (Canldesticks)     Trade Amount     Trade Number     Profit     MDD     avg % change per trade     avg profit / winning trade     avg loss / losing trade     proft factor     n winning trades     n losing trades     win %
-10k	                      100%	           287	            2450%      15%		 1.1                        5.26                           -1.84                       2.85           	125                  162                 43.55%
+|Period (Canldesticks)     |Trade Amount     |Trade Number     |Profit     |MDD     |avg % change per trade     |avg profit / winning trade     |avg loss / losing trade     |proft factor     |n winning trades     |n losing trades     |win %     |
+|--------------------------|-----------------|-----------------|-----------|--------|---------------------------|-------------------------------|----------------------------|-----------------|---------------------|--------------------|----------|
+|10k	                     |100%	           |287	             |2450%      |15%     |1.1                        |5.26                           |-1.84                       |2.85           	 |125                  |162                 |43.55%    |
 
 More updates about the script might come.
